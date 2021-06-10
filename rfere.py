@@ -1,1 +1,1 @@
-print("sdnkrgjsn")
+import turtle
